@@ -4,3 +4,5 @@
   </div>
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gangteagu7@gmail.com)](mailto:gangteagu7@gmail.com)
+
+  [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=http://kangteagu.github.io/)](http://kangteagu.github.io/)
