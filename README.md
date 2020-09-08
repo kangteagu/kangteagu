@@ -11,7 +11,7 @@
   - Leadership, Mentoring, Writing, Presentation
 
 
-<div align = center>
+<div align=center>
 	  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gangteagu7@gmail.com)](mailto:gangteagu7@gmail.com)
 
