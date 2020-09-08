@@ -1,6 +1,13 @@
-## 기초 Web Developer를 향해 나아가는 강태구 입니다
-    반갑습니다. 아직까지 기본이 부족하지만 github를 통해서 기반을 다져나가 앞으로 많은 발전을 하는 개발자가 되겠습니다
+<div align=center>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kangteagu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangteagu)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+## Interest
+  - React.JS
+  - Python
+  - Leadership, Mentoring, Writing, Presentation
 
 
 <div align=center>
