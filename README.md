@@ -7,6 +7,7 @@
 ## Interest
   - React.JS
   - Python
+  - JavaScript, css
   - Leadership, Mentoring, Writing, Presentation
 
 
